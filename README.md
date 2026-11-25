@@ -46,16 +46,16 @@ Over 340 automated tests.
 
 All screenshots use invented demo staff.
 
-![Daily dashboard counting present, late and absent staff, with photo, status and late deduction for each.](screenshots/01-daily-dashboard.png)
+![Daily dashboard counting present, late and absent staff, with photo, status and late deduction for each.](01-daily-dashboard.png)
 
-![Staff profile pop-up with details, late days, waived days and total deducted in naira.](screenshots/02-staff-profile-late-deductions.png)
+![Staff profile pop-up with details, late days, waived days and total deducted in naira.](02-staff-profile-late-deductions.png)
 
-![Monthly report of attendance and total deducted per person, with Excel and PDF buttons.](screenshots/03-monthly-report-with-deductions.png)
+![Monthly report of attendance and total deducted per person, with Excel and PDF buttons.](03-monthly-report-with-deductions.png)
 
-![Daily dashboard on a phone, with figures stacked in cards.](screenshots/04-dashboard-on-a-phone.png)
+![Daily dashboard on a phone, with figures stacked in cards.](04-dashboard-on-a-phone.png)
 
-![Touch-screen kiosk showing staff photos to tap, with search and a send status.](screenshots/05-touch-screen-clock-in.png)
+![Touch-screen kiosk showing staff photos to tap, with search and a send status.](05-touch-screen-clock-in.png)
 
-![Fingerprint-device screen with a scanning pad, clock and a status saying two scans await sending.](screenshots/06-fingerprint-device-send-status.png)
+![Fingerprint-device screen with a scanning pad, clock and a status saying two scans await sending.](06-fingerprint-device-send-status.png)
 
-![Simulated welcome card for a late clock-in, with photo, name, time and late badge.](screenshots/07-scan-welcome-card.png)
+![Simulated welcome card for a late clock-in, with photo, name, time and late badge.](07-scan-welcome-card.png)
