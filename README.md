@@ -1,4 +1,6 @@
 # Staff Attendance Portal + JIOSK Kiosk
+# Demo video 
+https://youtube.com/shorts/gGcviOCipI0?feature=share
 
 An attendance system for small shops and offices. Staff clock in with a fingerprint device or a touch screen; managers see who is in, who is late and what lateness costs.
 
